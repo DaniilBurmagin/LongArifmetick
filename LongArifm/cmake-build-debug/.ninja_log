@@ -1,0 +1,16 @@
+# ninja log v5
+14	1327	7311668585585379	CMakeFiles/LongArifm.dir/src/exceptions.cpp.obj	a6b788eaf69584a9
+4	1461	7311668586927260	CMakeFiles/LongArifm.dir/main.cpp.obj	c343f9bc9a0e2c3d
+36	2239	7311668594705472	CMakeFiles/LongArifm.dir/test/Test.cpp.obj	28c998945a8e4f77
+24	2274	7311668595085542	CMakeFiles/LongArifm.dir/src/BigInt.cpp.obj	4a97e26d0619addc
+2275	2827	7311668600554805	LongArifm.exe	ec898642b2a4c327
+17	1050	7311669969782060	CMakeFiles/LongArifm.dir/src/exceptions.cpp.obj	a6b788eaf69584a9
+8	1540	7311669974715021	CMakeFiles/LongArifm.dir/main.cpp.obj	c343f9bc9a0e2c3d
+33	1975	7311669979050220	CMakeFiles/LongArifm.dir/test/Test.cpp.obj	28c998945a8e4f77
+25	2021	7311669979522087	CMakeFiles/LongArifm.dir/src/BigInt.cpp.obj	4a97e26d0619addc
+2021	2265	7311669981922260	LongArifm.exe	ec898642b2a4c327
+28	1206	7316789704002574	CMakeFiles/LongArifm.dir/src/exceptions.cpp.obj	a6b788eaf69584a9
+10	1894	7316789710943099	CMakeFiles/LongArifm.dir/main.cpp.obj	c343f9bc9a0e2c3d
+35	2546	7316789717483567	CMakeFiles/LongArifm.dir/test/Test.cpp.obj	28c998945a8e4f77
+21	2615	7316789718183640	CMakeFiles/LongArifm.dir/src/BigInt.cpp.obj	4a97e26d0619addc
+2615	2954	7316789721523877	LongArifm.exe	ec898642b2a4c327
